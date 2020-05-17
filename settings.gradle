@@ -1,0 +1,2 @@
+include ':app', ':retrofitrx2ext'
+rootProject.name='RetrofitRx2ExtExample'
